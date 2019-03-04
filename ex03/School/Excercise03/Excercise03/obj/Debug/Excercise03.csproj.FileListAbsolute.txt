@@ -1,0 +1,10 @@
+C:\Users\Nom\source\repos\Excercise03\Excercise03\bin\Debug\Excercise03.exe.config
+C:\Users\Nom\source\repos\Excercise03\Excercise03\bin\Debug\Excercise03.exe
+C:\Users\Nom\source\repos\Excercise03\Excercise03\bin\Debug\Excercise03.pdb
+C:\Users\Nom\source\repos\Excercise03\Excercise03\bin\Debug\Utils.dll
+C:\Users\Nom\source\repos\Excercise03\Excercise03\bin\Debug\Utils.pdb
+C:\Users\Nom\source\repos\Excercise03\Excercise03\obj\Debug\Excercise03.csprojAssemblyReference.cache
+C:\Users\Nom\source\repos\Excercise03\Excercise03\obj\Debug\Excercise03.csproj.CoreCompileInputs.cache
+C:\Users\Nom\source\repos\Excercise03\Excercise03\obj\Debug\Excercise03.csproj.CopyComplete
+C:\Users\Nom\source\repos\Excercise03\Excercise03\obj\Debug\Excercise03.exe
+C:\Users\Nom\source\repos\Excercise03\Excercise03\obj\Debug\Excercise03.pdb
